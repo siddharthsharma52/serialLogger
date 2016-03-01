@@ -3,10 +3,10 @@ Description : logs data from arduino serial(or other devices) to a file through 
 
 Requirements:
 -You would need to install following modules:
-> Logging
-> Serial
-> Datetime
-> Time
+> 1) Logging \n
+> 2) Serial \n
+> 3) Datetime \n
+> 4) Time \n
 
 COM Port:
 -You can find out the COM port by going to your Windows Device manager and looking up in "ports".
